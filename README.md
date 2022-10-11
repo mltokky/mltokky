@@ -2,6 +2,7 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fmltokky)](https://www.twitter.com/mltokky)
 [![Articles](https://badgen.org/img/zenn/mltokky/articles?style=flat)](https://zenn.dev/mltokky)
+[![Rating](https://badgen.org/img/atcoder/mltokky/rating/algorithm?style=flat)](https://atcoder.jp/users/mltokky?contestType=algo)
 
 普段はiOS/Androidアプリを開発している傍ら、プライベートではGoやFlutter、Rustなども触ってみています。
 
