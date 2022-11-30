@@ -18,4 +18,4 @@ AtCoderはこれから徐々に頑張っていきたいなぁ。。。
 - Twitter: [@mltokky](https://www.twitter.com/mltokky)
 - Zenn: [mltokky](https://zenn.dev/mltokky)
 - Instagram: [mltokky](https://www.instagram.com/mltokky/)
-- Blog(停滞中): [What a wonderful 2D world!](https://ww2dw.hatenablog.jp/)
+- Blog(ゆっくり更新中): [What a wonderful 2D world!](https://ww2dw.hatenablog.jp/)
