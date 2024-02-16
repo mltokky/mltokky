@@ -4,7 +4,7 @@
 [![Articles](https://badgen.org/img/zenn/mltokky/articles?style=flat)](https://zenn.dev/mltokky)
 [![Rating](https://badgen.org/img/atcoder/mltokky/rating/algorithm?style=flat)](https://atcoder.jp/users/mltokky?contestType=algo)
 
-普段はiOS/Androidアプリを開発している傍ら、プライベートではGoやFlutter、Rustなども触っています。  
+普段はiOS/Android/Flutterアプリを開発している傍ら、プライベートではGoやFlutter、Rustなども触っています。  
 現在、FlutterとRustを勉強中。
 
 AtCoderはこれから徐々に頑張っていきたいなぁ。。。
@@ -15,8 +15,6 @@ AtCoderはこれから徐々に頑張っていきたいなぁ。。。
 
 ## Links
 
-- Twitter: [@mltokky](https://www.twitter.com/mltokky)
-- Mastdown: [@mltokky@fedibird.com](https://fedibird.com/@mltokky)
-- Zenn: [mltokky](https://zenn.dev/mltokky)
-- Instagram: [mltokky](https://www.instagram.com/mltokky/)
-- Blog(ゆっくり更新中): [What a wonderful 2D world!](https://ww2dw.hatenablog.jp/)
+以下にまとめました！
+
+https://aboutme.style/mltokky
