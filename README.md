@@ -17,4 +17,4 @@ AtCoderはこれから徐々に頑張っていきたいなぁ。。。
 
 以下にまとめました！
 
-https://aboutme.style/mltokky
+<https://bento.me/mltokky>
